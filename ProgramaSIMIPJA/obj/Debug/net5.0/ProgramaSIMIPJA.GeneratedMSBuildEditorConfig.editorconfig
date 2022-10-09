@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = ProgramaSIMIPJA
+build_property.ProjectDir = C:\Users\lupem\Documents\Isabel Programacion(VISUAL STUDIO 2019)\ProgramaSIMIPJA\ProgramaSIMIPJA\
